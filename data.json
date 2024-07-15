@@ -1,0 +1,1289 @@
+[
+    {
+        "S_NAME_E": "#THEBACKYARDBAKERSHQ",
+        "Mall_E": "Far East Square",
+        "SHOP_NO_E": "21 China St #01-01",
+        "Tel": null,
+        "Website": "http://www.thebackyardbakers.com.sg",
+        "BIZ_HRS": "7:30am - 4:30pm",
+        "Cat_E": "Food & Beverage"
+    },
+    {
+        "S_NAME_E": "+SERV",
+        "Mall_E": "Orchard Central",
+        "SHOP_NO_E": "#04-08A",
+        "Tel": null,
+        "Website": null,
+        "BIZ_HRS": "",
+        "Cat_E": "Services & Others"
+    },
+    {
+        "S_NAME_E": "10 SQUARE @ ORCHARD CENTRAL",
+        "Mall_E": "Orchard Central",
+        "SHOP_NO_E": "#10-01",
+        "Tel": "6835 8170",
+        "Website": "http://www.therice.sg",
+        "BIZ_HRS": "",
+        "Cat_E": "Services & Others"
+    },
+    {
+        "S_NAME_E": "123 Z\u00d4",
+        "Mall_E": "Icon Village",
+        "SHOP_NO_E": "12 Gopeng St, #01-45, 49-51",
+        "Tel": "9669 9655",
+        "Website": "http://www.123zo-sg.com",
+        "BIZ_HRS": "Monday to Saturday: 11am - 3pm, 5pm - 11pm, Sunday: Closed",
+        "Cat_E": "Food & Beverage"
+    },
+    {
+        "S_NAME_E": "1ST EYE CARE",
+        "Mall_E": "Clarke Quay Central",
+        "SHOP_NO_E": "#02-60",
+        "Tel": "6534 0615",
+        "Website": null,
+        "BIZ_HRS": "",
+        "Cat_E": "Jewellery/Watches/Optical"
+    },
+    {
+        "S_NAME_E": "20DB DIGISOUND",
+        "Mall_E": "Square 2",
+        "SHOP_NO_E": "#03-24/25",
+        "Tel": "6397 6779",
+        "Website": "https://www.digisoundhearing.com.sg/",
+        "BIZ_HRS": "Monday to Saturday, 10am-6pm, (Closed on Sunday and Public Holidays)",
+        "Cat_E": "Medical / Dental"
+    },
+    {
+        "S_NAME_E": "3+ SALON",
+        "Mall_E": "Pacific Plaza",
+        "SHOP_NO_E": "#03-02",
+        "Tel": "8690 7533",
+        "Website": null,
+        "BIZ_HRS": "Weekdays: 11am to 8pm, Weekends: 11am to 7pm",
+        "Cat_E": "Hair / Beauty / Wellness"
+    },
+    {
+        "S_NAME_E": "3DSENSE MEDIA SCHOOL",
+        "Mall_E": "Clarke Quay Central",
+        "SHOP_NO_E": "#03-01",
+        "Tel": "6224 9455",
+        "Website": "https://3dsense.net/",
+        "BIZ_HRS": "",
+        "Cat_E": "Education & Enrichment"
+    },
+    {
+        "S_NAME_E": "7-ELEVEN",
+        "Mall_E": "Greenwich V",
+        "SHOP_NO_E": "#01-01",
+        "Tel": "6483 0058",
+        "Website": "http://www.7-eleven.com.sg/",
+        "BIZ_HRS": "",
+        "Cat_E": "Convenience Store"
+    },
+    {
+        "S_NAME_E": "7-ELEVEN",
+        "Mall_E": "HillV2",
+        "SHOP_NO_E": "#01-03",
+        "Tel": null,
+        "Website": "http://www.7-eleven.com.sg/",
+        "BIZ_HRS": "",
+        "Cat_E": "Convenience Store"
+    },
+    {
+        "S_NAME_E": "7-ELEVEN",
+        "Mall_E": "Parksuites",
+        "SHOP_NO_E": "#01-20",
+        "Tel": null,
+        "Website": "http://www.7-eleven.com.sg/",
+        "BIZ_HRS": "",
+        "Cat_E": "Convenience Store"
+    },
+    {
+        "S_NAME_E": "7-ELEVEN",
+        "Mall_E": "Icon Village",
+        "SHOP_NO_E": "#01-18",
+        "Tel": "6225 6993",
+        "Website": "http://www.7-eleven.com.sg/",
+        "BIZ_HRS": "",
+        "Cat_E": "Convenience Store"
+    },
+    {
+        "S_NAME_E": "7-ELEVEN",
+        "Mall_E": "Mess Hall at Sentosa",
+        "SHOP_NO_E": "#01-03",
+        "Tel": "6970 4330",
+        "Website": "http://www.7-eleven.com.sg/",
+        "BIZ_HRS": "",
+        "Cat_E": "Convenience Store"
+    },
+    {
+        "S_NAME_E": "7-ELEVEN",
+        "Mall_E": "Riverside Point",
+        "SHOP_NO_E": "#01-01B",
+        "Tel": "6536 9704",
+        "Website": "http://www.7-eleven.com.sg/",
+        "BIZ_HRS": "",
+        "Cat_E": "Convenience Store"
+    },
+    {
+        "S_NAME_E": "7-ELEVEN",
+        "Mall_E": "Square 2",
+        "SHOP_NO_E": "#01-03",
+        "Tel": "6397 6570",
+        "Website": "http://www.7-eleven.com.sg/",
+        "BIZ_HRS": "",
+        "Cat_E": "Convenience Store"
+    },
+    {
+        "S_NAME_E": "7-ELEVEN",
+        "Mall_E": "Woods Square",
+        "SHOP_NO_E": "#01-03",
+        "Tel": "-",
+        "Website": "http://www.7-eleven.com.sg/",
+        "BIZ_HRS": "",
+        "Cat_E": "Convenience Store"
+    },
+    {
+        "S_NAME_E": "88 HONG KONG ROAST MEAT SPECIALIST",
+        "Mall_E": "Far East Square",
+        "SHOP_NO_E": "19/20 China St #01-01",
+        "Tel": null,
+        "Website": null,
+        "BIZ_HRS": "Mon - Sat: 10am - 9pm\nSun: Closed",
+        "Cat_E": "Food & Beverage"
+    },
+    {
+        "S_NAME_E": "99 PERCENT HAIR STUDIO",
+        "Mall_E": "Orchard Central",
+        "SHOP_NO_E": "#04-10",
+        "Tel": "6238 3667",
+        "Website": "http://www.99percenthairstudio.com.sg",
+        "BIZ_HRS": "",
+        "Cat_E": "Hair / Beauty / Wellness"
+    },
+    {
+        "S_NAME_E": "A KITCHEN",
+        "Mall_E": "Junction 10",
+        "SHOP_NO_E": "#01-30",
+        "Tel": "8544 7000",
+        "Website": null,
+        "BIZ_HRS": "11am - 1030pm",
+        "Cat_E": "Food & Beverage | Restaurants"
+    },
+    {
+        "S_NAME_E": "A.M AESTHETICS",
+        "Mall_E": "Clarke Quay Central",
+        "SHOP_NO_E": "#04-77",
+        "Tel": "Land: 6592 0762\nHP: 8866 3677",
+        "Website": "http://www.amaesthetics.com.sg",
+        "BIZ_HRS": "Weekdays: 11:00 \u2013 20:30, Sat: 11:00 \u2013 19:30, Sun: 11:00 \u2013 19:00",
+        "Cat_E": "Hair / Beauty / Wellness"
+    },
+    {
+        "S_NAME_E": "A.M AESTHETICS",
+        "Mall_E": "Orchard Central",
+        "SHOP_NO_E": "#05-33/36",
+        "Tel": "Land: 6509 1200\nHP: 8866 8025",
+        "Website": "http://www.amaesthetics.com.sg",
+        "BIZ_HRS": "Weekdays: 11:00 \u2013 20:30, Sat: 11:00 \u2013 19:30, Sun: 11:00 \u2013 19:00",
+        "Cat_E": "Hair / Beauty / Wellness"
+    },
+    {
+        "S_NAME_E": "ABSOLUTE ZERO",
+        "Mall_E": "Pacific Plaza",
+        "SHOP_NO_E": "#03-15",
+        "Tel": "6737 4434",
+        "Website": "https://absolutezero.com.sg/",
+        "BIZ_HRS": "",
+        "Cat_E": "Hair / Beauty / Wellness"
+    },
+    {
+        "S_NAME_E": "ABURI-EN",
+        "Mall_E": "Orchard Central",
+        "SHOP_NO_E": "#01-16",
+        "Tel": "6634 1018",
+        "Website": "http://aburi-en.com/",
+        "BIZ_HRS": "",
+        "Cat_E": "Food & Beverage | Restaurants"
+    },
+    {
+        "S_NAME_E": "ACADEMY OF CHIROPRACTIC CLINIC",
+        "Mall_E": "Riverside Point",
+        "SHOP_NO_E": "#02-27",
+        "Tel": "6438 5051",
+        "Website": "https://www.facebook.com/accsing/",
+        "BIZ_HRS": "",
+        "Cat_E": "Hair / Beauty / Wellness"
+    },
+    {
+        "S_NAME_E": "ADVENTURE 21",
+        "Mall_E": "Clarke Quay Central",
+        "SHOP_NO_E": "#03-56",
+        "Tel": "6535 0232",
+        "Website": "https://www.adventure21.com.sg/",
+        "BIZ_HRS": "",
+        "Cat_E": "Sports & Fitness"
+    },
+    {
+        "S_NAME_E": "AERIAL ARTS COLLECTIVE",
+        "Mall_E": "Icon Village",
+        "SHOP_NO_E": "#01-56/57",
+        "Tel": "8874 3726",
+        "Website": "https://www.aerialartscollective.com/",
+        "BIZ_HRS": "",
+        "Cat_E": "Services & Others"
+    },
+    {
+        "S_NAME_E": "AI JEWELLERY",
+        "Mall_E": "Lucky Chinatown",
+        "SHOP_NO_E": "#01-15",
+        "Tel": "6222 1967",
+        "Website": "http://www.facebook.com/aijewellery",
+        "BIZ_HRS": "",
+        "Cat_E": "Jewellery/Watches/Optical"
+    },
+    {
+        "S_NAME_E": "AILISA WELLNESS",
+        "Mall_E": "Square 2",
+        "SHOP_NO_E": "#B1-98",
+        "Tel": null,
+        "Website": null,
+        "BIZ_HRS": "",
+        "Cat_E": "Hair / Beauty / Wellness"
+    },
+    {
+        "S_NAME_E": "ALICE BOULANGERIE",
+        "Mall_E": "Icon Village",
+        "SHOP_NO_E": "#01-05/11",
+        "Tel": "8874 3300",
+        "Website": "https://www.instagram.com/aliceboulangeriesg/",
+        "BIZ_HRS": "Monday to Sunday: 8am to 7pm",
+        "Cat_E": "Food & Beverage"
+    },
+    {
+        "S_NAME_E": "ALIVE TATTOO STUDIO",
+        "Mall_E": "Lucky Chinatown",
+        "SHOP_NO_E": "#B2-03/03A",
+        "Tel": "9777 6587",
+        "Website": "https://www.facebook.com/AliveTattooStudio/",
+        "BIZ_HRS": "",
+        "Cat_E": "Hair / Beauty / Wellness"
+    },
+    {
+        "S_NAME_E": "ALIZIA GIFT HOUSE",
+        "Mall_E": "Square 2",
+        "SHOP_NO_E": "#01-131",
+        "Tel": "6352 0405",
+        "Website": null,
+        "BIZ_HRS": "",
+        "Cat_E": "Services & Others"
+    },
+    {
+        "S_NAME_E": "ALL IN ONE ACADEMY",
+        "Mall_E": "Junction 10",
+        "SHOP_NO_E": "#01-09",
+        "Tel": null,
+        "Website": null,
+        "BIZ_HRS": "",
+        "Cat_E": "Education & Enrichment"
+    },
+    {
+        "S_NAME_E": "ALLONGEE SALON",
+        "Mall_E": "Icon Village",
+        "SHOP_NO_E": "#01-71",
+        "Tel": "6909 0439",
+        "Website": "https://allongee-salon.com/index_en.html",
+        "BIZ_HRS": "11am to 10pm",
+        "Cat_E": "Hair / Beauty / Wellness"
+    },
+    {
+        "S_NAME_E": "ALLSMILES DENTAL CARE",
+        "Mall_E": "One Holland Village",
+        "SHOP_NO_E": "#03-13",
+        "Tel": null,
+        "Website": null,
+        "BIZ_HRS": "",
+        "Cat_E": "Medical / Dental"
+    },
+    {
+        "S_NAME_E": "AM I ADDICTED KOREAN POTTERY STUDIO",
+        "Mall_E": "Orchard Central",
+        "SHOP_NO_E": "#05-37",
+        "Tel": "8852 3370",
+        "Website": "https://amiaddicted.sg/",
+        "BIZ_HRS": "10am - 9pm",
+        "Cat_E": "Services & Others"
+    },
+    {
+        "S_NAME_E": "AMAZING HEARING GROUP",
+        "Mall_E": "Oasia Hotel Novena",
+        "SHOP_NO_E": "#02-01",
+        "Tel": "6272 3132",
+        "Website": "http://Amazinghearing.com",
+        "BIZ_HRS": "Tuesday to Saturday, 10.00am to 6.00pm",
+        "Cat_E": "Medical / Dental"
+    },
+    {
+        "S_NAME_E": "AMBER CAT VET",
+        "Mall_E": "Burnfoot Terrace",
+        "SHOP_NO_E": "48 Burnfoot Terrace",
+        "Tel": "6245 5543",
+        "Website": "http://www.ambercatvet.com",
+        "BIZ_HRS": "9.30am to 7pm",
+        "Cat_E": "Services & Others"
+    },
+    {
+        "S_NAME_E": "AMBER VET",
+        "Mall_E": "Burnfoot Terrace",
+        "SHOP_NO_E": "50 Burnfoot Terrace",
+        "Tel": "6245 5543",
+        "Website": "http://www.ambervet.com",
+        "BIZ_HRS": "9.30am to 7pm",
+        "Cat_E": "Services & Others"
+    },
+    {
+        "S_NAME_E": "AMIYAKI",
+        "Mall_E": "Icon Village",
+        "SHOP_NO_E": "#01-16",
+        "Tel": null,
+        "Website": null,
+        "BIZ_HRS": "Monday - Friday: 11:30am \u2013 3pm, 6pm \u2013 10pm, Saturday & Sunday: 11:30am \u2013 10pm",
+        "Cat_E": "Food & Beverage | Restaurants"
+    },
+    {
+        "S_NAME_E": "AMPS TEA",
+        "Mall_E": "West Coast Plaza",
+        "SHOP_NO_E": "#02-01",
+        "Tel": null,
+        "Website": null,
+        "BIZ_HRS": "Daily 10am - 9.30pm",
+        "Cat_E": "Food & Beverage"
+    },
+    {
+        "S_NAME_E": "AN ACAI AFFAIR",
+        "Mall_E": "Woods Square",
+        "SHOP_NO_E": "#01-06",
+        "Tel": null,
+        "Website": "https://www.anacaiaffair.com/",
+        "BIZ_HRS": "",
+        "Cat_E": "Food & Beverage | Cafes & Desserts"
+    },
+    {
+        "S_NAME_E": "ANDES BY ASTONS",
+        "Mall_E": "Woods Square",
+        "SHOP_NO_E": "#01-16",
+        "Tel": "6908 6512",
+        "Website": null,
+        "BIZ_HRS": "",
+        "Cat_E": "Food & Beverage | Restaurants"
+    },
+    {
+        "S_NAME_E": "ANGLICAN SENIOR CENTRE",
+        "Mall_E": "HillV2",
+        "SHOP_NO_E": "#02-22",
+        "Tel": "6801 0499",
+        "Website": "https://sacs.org.sg/",
+        "BIZ_HRS": "Mon - Fri: 7.30am - 6pm, Closed on Sat, Sun, PH",
+        "Cat_E": "Services & Others"
+    },
+    {
+        "S_NAME_E": "ANYTIME FITNESS",
+        "Mall_E": "Greenwich V",
+        "SHOP_NO_E": "#02-05",
+        "Tel": "6481 6638",
+        "Website": "https://www.anytimefitness.sg/",
+        "BIZ_HRS": "",
+        "Cat_E": "Sports & Fitness"
+    },
+    {
+        "S_NAME_E": "ANYTIME FITNESS",
+        "Mall_E": "HillV2",
+        "SHOP_NO_E": "#02-18",
+        "Tel": "9188 1724",
+        "Website": "https://www.anytimefitness.sg/",
+        "BIZ_HRS": "",
+        "Cat_E": "Sports & Fitness"
+    },
+    {
+        "S_NAME_E": "ANYTIME FITNESS",
+        "Mall_E": "West Coast Plaza",
+        "SHOP_NO_E": "#01-69",
+        "Tel": "9247 0410",
+        "Website": "https://www.anytimefitness.sg/",
+        "BIZ_HRS": "",
+        "Cat_E": "Sports & Fitness"
+    },
+    {
+        "S_NAME_E": "AOM SENSORY SPACE",
+        "Mall_E": "Square 2",
+        "SHOP_NO_E": "#01-69",
+        "Tel": "9658 9624",
+        "Website": null,
+        "BIZ_HRS": "11 am - 9 pm",
+        "Cat_E": "Fashion & Accessories"
+    },
+    {
+        "S_NAME_E": "AOX",
+        "Mall_E": "Square 2",
+        "SHOP_NO_E": "#03-20",
+        "Tel": "6976 4321",
+        "Website": "http://www.aox.com.sg",
+        "BIZ_HRS": "",
+        "Cat_E": "Home & Furnishing"
+    },
+    {
+        "S_NAME_E": "APAX MEDICAL & AESTHETICS CLINIC",
+        "Mall_E": "Junction 10",
+        "SHOP_NO_E": "#02-11",
+        "Tel": "6769 6007",
+        "Website": "http://www.apaxmedical.com/",
+        "BIZ_HRS": "",
+        "Cat_E": "Hair / Beauty / Wellness"
+    },
+    {
+        "S_NAME_E": "APGUJEONG HAIR STUDIO",
+        "Mall_E": "Square 2",
+        "SHOP_NO_E": "#03-92",
+        "Tel": "6803 6795",
+        "Website": "https://www.apgujeonghair.com/",
+        "BIZ_HRS": "",
+        "Cat_E": "Hair / Beauty / Wellness"
+    },
+    {
+        "S_NAME_E": "ARK 11",
+        "Mall_E": "Orchard Central",
+        "SHOP_NO_E": "#11-01/02",
+        "Tel": null,
+        "Website": null,
+        "BIZ_HRS": "",
+        "Cat_E": "Services & Others"
+    },
+    {
+        "S_NAME_E": "ARMOURY STEAKS AND CRAFT BEER",
+        "Mall_E": "Orchard Central",
+        "SHOP_NO_E": "#11-03/04",
+        "Tel": "8845 6205 (WhatsApp)",
+        "Website": null,
+        "BIZ_HRS": "Sun to Tues: 11.30am - 10pm\u00a0\nWed to Sat: 11.30am - 10.30pm",
+        "Cat_E": "Food & Beverage"
+    },
+    {
+        "S_NAME_E": "ART & ROSES FLOWERS 'N' GIFTS",
+        "Mall_E": "Square 2",
+        "SHOP_NO_E": "#03-30",
+        "Tel": "6397 6515",
+        "Website": "http://www.artnroses.sg",
+        "BIZ_HRS": "",
+        "Cat_E": "Books / Gifts & Novelties"
+    },
+    {
+        "S_NAME_E": "ART VILLAGE",
+        "Mall_E": "West Coast Plaza",
+        "SHOP_NO_E": "#01-20",
+        "Tel": "6256 2944",
+        "Website": "http://artvillagesg.com/",
+        "BIZ_HRS": "Studio\nMonday to Friday: 12pm to 9pm, Saturday to Sunday: 10am to 8pm, Gallery\nMonday to Sunday: 10am to 9pm",
+        "Cat_E": "Education & Enrichment"
+    },
+    {
+        "S_NAME_E": "ART VILLAGE GALLERY & STUDIO",
+        "Mall_E": "Katong V",
+        "SHOP_NO_E": "#03-20",
+        "Tel": "6518 4284",
+        "Website": "http://artvillagesg.com/",
+        "BIZ_HRS": "Weekdays: 11am \u20138pm, Weekends: 9am \u20138pm",
+        "Cat_E": "Services & Others"
+    },
+    {
+        "S_NAME_E": "ART WORKS GALLERY",
+        "Mall_E": "One Holland Village",
+        "SHOP_NO_E": "#01-10/11",
+        "Tel": "6970 7422",
+        "Website": "http://www.artworks.com.sg",
+        "BIZ_HRS": "12pm to 8pm",
+        "Cat_E": "Services & Others | Pet-friendly | Pet-friendly retail stores"
+    },
+    {
+        "S_NAME_E": "ASAP & CO",
+        "Mall_E": "Far East Square",
+        "SHOP_NO_E": "70 Telok Ayer Street #01-01",
+        "Tel": "9101 7147",
+        "Website": "http://www.asapnco.sg",
+        "BIZ_HRS": "12pm -3pm & 5pm-11pm",
+        "Cat_E": "Food & Beverage"
+    },
+    {
+        "S_NAME_E": "ASIA MUSIC SCHOOL",
+        "Mall_E": "West Coast Plaza",
+        "SHOP_NO_E": "#01-67",
+        "Tel": "6779 5065",
+        "Website": "http://www.asiamusic.edu.sg/",
+        "BIZ_HRS": "Monday to Friday: 11am to 9.30pm, Saturday: 9am to 8pm, Sunday: 9am to 7pm, closed on public holiday",
+        "Cat_E": "Education & Enrichment"
+    },
+    {
+        "S_NAME_E": "ASSEMBLE / ACCENT",
+        "Mall_E": "Orchard Central",
+        "SHOP_NO_E": "#04-04",
+        "Tel": "8742 6863",
+        "Website": "https://assemblesg.com/",
+        "BIZ_HRS": "",
+        "Cat_E": "Fashion & Accessories"
+    },
+    {
+        "S_NAME_E": "ASTER SPRING",
+        "Mall_E": "One Holland Village",
+        "SHOP_NO_E": "#03-37",
+        "Tel": "9118 5202",
+        "Website": "https://www.asterspring.com.sg/",
+        "BIZ_HRS": "Monday - Friday: 10.30am - 9pm, Saturday, Sunday & Public Holiday: 10.30am - 8pm",
+        "Cat_E": "Hair / Beauty / Wellness | Pet-friendly | Pet-friendly retail stores (pets to be in a carrier/stroller)"
+    },
+    {
+        "S_NAME_E": "ASTONS SPECIALITIES",
+        "Mall_E": "Clarke Quay Central",
+        "SHOP_NO_E": "#03-85",
+        "Tel": "6222 3987",
+        "Website": "http://www.astons.com.sg/",
+        "BIZ_HRS": "",
+        "Cat_E": "Food & Beverage | Restaurants"
+    },
+    {
+        "S_NAME_E": "ATRIX SERVICE EXPERIENCE CENTRE",
+        "Mall_E": "One Holland Village",
+        "SHOP_NO_E": "#02-02",
+        "Tel": "9070 333",
+        "Website": null,
+        "BIZ_HRS": "11am \u2013 9pm",
+        "Cat_E": "Electrical & Electronics | Pet-friendly | Pet-friendly retail stores (pets to be in a carrier/stroller)"
+    },
+    {
+        "S_NAME_E": "AU CROISSANT",
+        "Mall_E": "Square 2",
+        "SHOP_NO_E": "#02-06",
+        "Tel": "9143 8986",
+        "Website": "https://aucroissant.com.sg/",
+        "BIZ_HRS": "9am - 9.20pm",
+        "Cat_E": "Food & Beverage | Cafes & Desserts"
+    },
+    {
+        "S_NAME_E": "AUBE BEAUTY SALON",
+        "Mall_E": "Clarke Quay Central",
+        "SHOP_NO_E": "#03-69",
+        "Tel": "TEL: 6226 0166 / SMS: 9230 7741",
+        "Website": "https://aube-sg.com/",
+        "BIZ_HRS": "10am - 8pm",
+        "Cat_E": "Hair / Beauty / Wellness"
+    },
+    {
+        "S_NAME_E": "AURA CLINIC",
+        "Mall_E": "One Holland Village",
+        "SHOP_NO_E": "#03-10",
+        "Tel": null,
+        "Website": null,
+        "BIZ_HRS": "",
+        "Cat_E": "Hair / Beauty / Wellness"
+    },
+    {
+        "S_NAME_E": "AURA MEDICAL AESTHETICS",
+        "Mall_E": "One Holland Village",
+        "SHOP_NO_E": "#03-09",
+        "Tel": "9848 2888",
+        "Website": "http://www.auramedical.sg",
+        "BIZ_HRS": "11am - 9pm",
+        "Cat_E": "Hair / Beauty / Wellness"
+    },
+    {
+        "S_NAME_E": "AUREUS ACADEMY",
+        "Mall_E": "Hougang 1",
+        "SHOP_NO_E": "#01-44",
+        "Tel": "6950 6159",
+        "Website": "http://www.aureusacademy.com",
+        "BIZ_HRS": "10am - 8pm",
+        "Cat_E": "Education & Enrichment"
+    },
+    {
+        "S_NAME_E": "AWFULLY CHOCOLATE",
+        "Mall_E": "One Holland Village",
+        "SHOP_NO_E": "#01-06",
+        "Tel": "6904 0113",
+        "Website": "http://www.awfullychocolate.com/",
+        "BIZ_HRS": "",
+        "Cat_E": "Food & Beverage"
+    },
+    {
+        "S_NAME_E": "AWFULLY CHOCOLATE",
+        "Mall_E": "Square 2",
+        "SHOP_NO_E": "#01-14",
+        "Tel": "6250 7106",
+        "Website": "http://www.awfullychocolate.com/",
+        "BIZ_HRS": "",
+        "Cat_E": "Food & Beverage"
+    },
+    {
+        "S_NAME_E": "AWHSOME BY HYGGERIUM",
+        "Mall_E": "One Holland Village",
+        "SHOP_NO_E": "#02-41",
+        "Tel": "8113 6939",
+        "Website": "http://www.hyggerium.com",
+        "BIZ_HRS": "11am to 9pm",
+        "Cat_E": "Books / Gifts & Novelties"
+    },
+    {
+        "S_NAME_E": "AXE FACTOR",
+        "Mall_E": "Mess Hall at Sentosa",
+        "SHOP_NO_E": "#02-04/05",
+        "Tel": "8923 8945",
+        "Website": null,
+        "BIZ_HRS": "12pm - 10 pm",
+        "Cat_E": "Food & Beverage | Restaurants"
+    },
+    {
+        "S_NAME_E": "AYAM PENYET RIA",
+        "Mall_E": "Woods Square",
+        "SHOP_NO_E": "#B2-03",
+        "Tel": "NA",
+        "Website": "https://ayampenyetria.com/",
+        "BIZ_HRS": "",
+        "Cat_E": "Food & Beverage | Restaurants"
+    },
+    {
+        "S_NAME_E": "AZABU SABO HOKKAIDO ICE-CREAM SHOP",
+        "Mall_E": "Clarke Quay Central",
+        "SHOP_NO_E": "#01-46",
+        "Tel": "6534 7178",
+        "Website": "http://www.azabusabo.com.sg/hokkaidoicream.htm",
+        "BIZ_HRS": "",
+        "Cat_E": "Food & Beverage | Cafes & Desserts"
+    },
+    {
+        "S_NAME_E": "BA GUO GRILLED FISH",
+        "Mall_E": "West Coast Plaza",
+        "SHOP_NO_E": "#02-25",
+        "Tel": "8938 1288",
+        "Website": "https://www.facebook.com/baguogrilledfish",
+        "BIZ_HRS": "11am to 10pm. Last order 9:30pm",
+        "Cat_E": "Food & Beverage | Restaurants"
+    },
+    {
+        "S_NAME_E": "BABIES BELLIES",
+        "Mall_E": "Square 2",
+        "SHOP_NO_E": "#04-39",
+        "Tel": "6356 6623",
+        "Website": "http://www.babiesbellies.com.sg",
+        "BIZ_HRS": "",
+        "Cat_E": "Hair / Beauty / Wellness"
+    },
+    {
+        "S_NAME_E": "BAKEINC",
+        "Mall_E": "Hougang 1",
+        "SHOP_NO_E": "#01-06",
+        "Tel": null,
+        "Website": null,
+        "BIZ_HRS": "",
+        "Cat_E": "Food & Beverage | Bakery & Confectionery"
+    },
+    {
+        "S_NAME_E": "BAKER X @ ORCHARD CENTRAL",
+        "Mall_E": "Orchard Central",
+        "SHOP_NO_E": "#04-29",
+        "Tel": null,
+        "Website": "https://fareastmalls.com.sg/en/discover/baker-x",
+        "BIZ_HRS": "",
+        "Cat_E": "Food & Beverage"
+    },
+    {
+        "S_NAME_E": "BAKERY CUISINE",
+        "Mall_E": "Greenwich V",
+        "SHOP_NO_E": "#01-19",
+        "Tel": null,
+        "Website": "https://www.bakerycuisine.com.sg/",
+        "BIZ_HRS": "",
+        "Cat_E": "Food & Beverage | Bakery & Confectionery"
+    },
+    {
+        "S_NAME_E": "BAMBOO BOWLS",
+        "Mall_E": "Far East Square",
+        "SHOP_NO_E": "137 Amoy St #01-01 to 03",
+        "Tel": "8748 9978",
+        "Website": "http://www.bamboobowls.com",
+        "BIZ_HRS": "",
+        "Cat_E": "Food & Beverage | Restaurants"
+    },
+    {
+        "S_NAME_E": "BAO MAKERS",
+        "Mall_E": "Far East Square",
+        "SHOP_NO_E": "135 Amoy Street #01-03",
+        "Tel": null,
+        "Website": null,
+        "BIZ_HRS": "",
+        "Cat_E": "Food & Beverage | Restaurants"
+    },
+    {
+        "S_NAME_E": "BAO ZHI TANG FOOT REFLEXOLOGY",
+        "Mall_E": "Katong V",
+        "SHOP_NO_E": "#02-04",
+        "Tel": "6970 0058",
+        "Website": null,
+        "BIZ_HRS": "",
+        "Cat_E": "Hair / Beauty / Wellness"
+    },
+    {
+        "S_NAME_E": "BAOZHITANG CHINESE MEDICINE AND THERAPY CENTRE",
+        "Mall_E": "Katong V",
+        "SHOP_NO_E": "#02-05",
+        "Tel": "6970 0058",
+        "Website": "http://www.baozhitang.com.sg/",
+        "BIZ_HRS": "",
+        "Cat_E": "Hair / Beauty / Wellness"
+    },
+    {
+        "S_NAME_E": "BAOZHITANG CHINESE MEDICINE AND THERAPY CENTRE",
+        "Mall_E": "West Coast Plaza",
+        "SHOP_NO_E": "#02-31",
+        "Tel": "6779 1185",
+        "Website": "http://www.baozhitang.com.sg/",
+        "BIZ_HRS": "",
+        "Cat_E": "Hair / Beauty / Wellness"
+    },
+    {
+        "S_NAME_E": "BARA INDONESIAN GRILLED RICE",
+        "Mall_E": "Icon Village",
+        "SHOP_NO_E": "#01-10",
+        "Tel": "8321 6771",
+        "Website": "http://www.bara-food.com/",
+        "BIZ_HRS": "",
+        "Cat_E": "Food & Beverage | Restaurants"
+    },
+    {
+        "S_NAME_E": "BARCOOK BAKERY",
+        "Mall_E": "Clarke Quay Central",
+        "SHOP_NO_E": "#01-67",
+        "Tel": "6225 6588",
+        "Website": "http://www.barcookbakery.com/",
+        "BIZ_HRS": "",
+        "Cat_E": "Food & Beverage | Bakery & Confectionery"
+    },
+    {
+        "S_NAME_E": "BARCOOK BAKERY",
+        "Mall_E": "Square 2",
+        "SHOP_NO_E": "#01-17",
+        "Tel": "6397 6588",
+        "Website": "http://www.barcookbakery.com/",
+        "BIZ_HRS": "",
+        "Cat_E": "Food & Beverage | Bakery & Confectionery"
+    },
+    {
+        "S_NAME_E": "BASKIN ROBBINS",
+        "Mall_E": "One Holland Village",
+        "SHOP_NO_E": "#01-26",
+        "Tel": null,
+        "Website": "https://baskinrobbins.com.sg/",
+        "BIZ_HRS": "10am - 930pm",
+        "Cat_E": "Food & Beverage | Bakery & Confectionery"
+    },
+    {
+        "S_NAME_E": "BEAUTE HUB",
+        "Mall_E": "Clarke Quay Central",
+        "SHOP_NO_E": "#03-48",
+        "Tel": "6532 5885",
+        "Website": "http://www.beautehub.com/",
+        "BIZ_HRS": "",
+        "Cat_E": "Hair / Beauty / Wellness"
+    },
+    {
+        "S_NAME_E": "BEAUTY COLLECTIVE",
+        "Mall_E": "Square 2",
+        "SHOP_NO_E": "#03-36",
+        "Tel": "6397 6163",
+        "Website": "https://beautycollective.sg/",
+        "BIZ_HRS": "",
+        "Cat_E": "Hair / Beauty / Wellness"
+    },
+    {
+        "S_NAME_E": "BEAUTY EMPIRE",
+        "Mall_E": "Square 2",
+        "SHOP_NO_E": "#03-38",
+        "Tel": "6397 5796",
+        "Website": "http://www.beautyempire.sg",
+        "BIZ_HRS": "",
+        "Cat_E": "Hair / Beauty / Wellness"
+    },
+    {
+        "S_NAME_E": "BEAUTY FULL SKIN",
+        "Mall_E": "Icon Village",
+        "SHOP_NO_E": "#01-59/60",
+        "Tel": "9847 8845",
+        "Website": "https://beautyfullskinwellness.page/",
+        "BIZ_HRS": "",
+        "Cat_E": "Hair / Beauty / Wellness"
+    },
+    {
+        "S_NAME_E": "BEIJING LANGUAGE SCHOOL",
+        "Mall_E": "Parksuites",
+        "SHOP_NO_E": "#01-05",
+        "Tel": "8169 4677",
+        "Website": "https://beijinglanguage.com.sg/",
+        "BIZ_HRS": "Weekdays: 12pm - 9pm, Weekends: 8:30am - 7pm",
+        "Cat_E": "Education & Enrichment"
+    },
+    {
+        "S_NAME_E": "BEIJU EXPRESS",
+        "Mall_E": "Icon Village",
+        "SHOP_NO_E": "#01-48",
+        "Tel": null,
+        "Website": "https://www.instagram.com/beiju.express/?hl=en",
+        "BIZ_HRS": "9am \u2013 9pm",
+        "Cat_E": "Food & Beverage"
+    },
+    {
+        "S_NAME_E": "BELISSIMA",
+        "Mall_E": "One Holland Village",
+        "SHOP_NO_E": "#02-10",
+        "Tel": null,
+        "Website": null,
+        "BIZ_HRS": "",
+        "Cat_E": "Fashion & Accessories | Pet-friendly | Pet-friendly retail stores"
+    },
+    {
+        "S_NAME_E": "BELLE-VILLE",
+        "Mall_E": "Square 2",
+        "SHOP_NO_E": "#01-154",
+        "Tel": null,
+        "Website": null,
+        "BIZ_HRS": "",
+        "Cat_E": "Food & Beverage | Cafes & Desserts"
+    },
+    {
+        "S_NAME_E": "BEN'S COLLECTIONS",
+        "Mall_E": "Square 2",
+        "SHOP_NO_E": "#02-75",
+        "Tel": "6397 2830",
+        "Website": null,
+        "BIZ_HRS": "",
+        "Cat_E": "Books / Gifts & Novelties"
+    },
+    {
+        "S_NAME_E": "BERRIES WORLD OF LEARNING SCHOOL (CW)",
+        "Mall_E": "West Coast Plaza",
+        "SHOP_NO_E": "#B1-19",
+        "Tel": "6775 8990",
+        "Website": "https://www.berriesworld.com/",
+        "BIZ_HRS": "Weekdays: 12pm - 9pm, Weekends: 8.30am - 7pm",
+        "Cat_E": "Education & Enrichment"
+    },
+    {
+        "S_NAME_E": "BFT WEST COAST PLAZA",
+        "Mall_E": "West Coast Plaza",
+        "SHOP_NO_E": "#02-46/51",
+        "Tel": "8833 5505",
+        "Website": "http://www.instagram.com/bft_westcoastplaza",
+        "BIZ_HRS": "By class bookings only",
+        "Cat_E": "Sports & Fitness"
+    },
+    {
+        "S_NAME_E": "BIBIM",
+        "Mall_E": "Far East Square",
+        "SHOP_NO_E": "25 China Street #01-01",
+        "Tel": "8505 4527",
+        "Website": "https://www.imakan.app/order/menu/u9se-PICKUPDELIVERY",
+        "BIZ_HRS": "11am - 7pm",
+        "Cat_E": "Food & Beverage"
+    },
+    {
+        "S_NAME_E": "BIG SAM TUITION CENTRE",
+        "Mall_E": "Square 2",
+        "SHOP_NO_E": "#03-91",
+        "Tel": null,
+        "Website": "https://www.bigsamtuitiongroup.com/",
+        "BIZ_HRS": "11am to 10pm",
+        "Cat_E": "Education & Enrichment"
+    },
+    {
+        "S_NAME_E": "BJ LUXURY",
+        "Mall_E": "Pacific Plaza",
+        "SHOP_NO_E": "#01-08",
+        "Tel": null,
+        "Website": "https://bjluxury.com/",
+        "BIZ_HRS": "",
+        "Cat_E": "Fashion & Accessories"
+    },
+    {
+        "S_NAME_E": "BLACK CHERRY",
+        "Mall_E": "Bijou",
+        "SHOP_NO_E": "#01-08",
+        "Tel": "6957 5567",
+        "Website": null,
+        "BIZ_HRS": "11am - 10pm",
+        "Cat_E": "Food & Beverage | Restaurants"
+    },
+    {
+        "S_NAME_E": "BLISS DENTAL (HOUGANG)",
+        "Mall_E": "Hougang 1",
+        "SHOP_NO_E": "#01-16",
+        "Tel": "6312 2555",
+        "Website": "https://blissdental.sg/",
+        "BIZ_HRS": "",
+        "Cat_E": "Medical / Dental"
+    },
+    {
+        "S_NAME_E": "BLU JAZ",
+        "Mall_E": "Far East Square",
+        "SHOP_NO_E": "31/32 Pekin St #01-01",
+        "Tel": "9199 0610",
+        "Website": "http://www.blujazcafe.net",
+        "BIZ_HRS": "Mon to Thu: 12 Noon till 11:30pm, Fri & Sat: 12 Noon till 1:30am, Sunday: Closed",
+        "Cat_E": "Food & Beverage"
+    },
+    {
+        "S_NAME_E": "BODY SPARK",
+        "Mall_E": "Icon Village",
+        "SHOP_NO_E": "#01-61",
+        "Tel": "6225 0722",
+        "Website": "https://www.facebook.com/pg/BodySparkSG",
+        "BIZ_HRS": "",
+        "Cat_E": "Hair / Beauty / Wellness"
+    },
+    {
+        "S_NAME_E": "BODYWERKZ",
+        "Mall_E": "Square 2",
+        "SHOP_NO_E": "#04-34",
+        "Tel": "6252 0188",
+        "Website": null,
+        "BIZ_HRS": "Weekday: 11am - 9pm, Saturday: 10am - 7.30pm, Sunday: 11am-7pm",
+        "Cat_E": "Hair / Beauty / Wellness"
+    },
+    {
+        "S_NAME_E": "BONES \u2018N SLAW",
+        "Mall_E": "Clarke Quay Central",
+        "SHOP_NO_E": "#02-82",
+        "Tel": "6980 6758",
+        "Website": null,
+        "BIZ_HRS": "Monday to Friday: 11.30am - 9.30pm\nSaturday, Sunday and Public Holidays: 11am to 9.30pm",
+        "Cat_E": "Food & Beverage | Restaurants"
+    },
+    {
+        "S_NAME_E": "BOON LAY POWER NASI LEMAK",
+        "Mall_E": "Square 2",
+        "SHOP_NO_E": "#B1-125",
+        "Tel": "8148 4800",
+        "Website": "http://www.powernasilemak.biz/Home.html",
+        "BIZ_HRS": "",
+        "Cat_E": "Food & Beverage | Light Bites & Food Kiosks"
+    },
+    {
+        "S_NAME_E": "BOOST JUICE BARS (COMING SOON)",
+        "Mall_E": "Far East Square",
+        "SHOP_NO_E": "2 Amoy Street #01-01",
+        "Tel": null,
+        "Website": null,
+        "BIZ_HRS": "",
+        "Cat_E": "Food & Beverage | Light Bites & Food Kiosks"
+    },
+    {
+        "S_NAME_E": "BOOST JUICE BARS (COMING SOON)",
+        "Mall_E": "One Holland Village",
+        "SHOP_NO_E": "#01-35",
+        "Tel": null,
+        "Website": null,
+        "BIZ_HRS": "",
+        "Cat_E": "Food & Beverage | Light Bites & Food Kiosks"
+    },
+    {
+        "S_NAME_E": "BOTAN JAPANESE RESTAURANT",
+        "Mall_E": "Far East Square",
+        "SHOP_NO_E": "36/37 Pekin Street #01-01",
+        "Tel": "6536 4404",
+        "Website": "https://www.facebook.com/BotanJapan/",
+        "BIZ_HRS": "Mon - Sat: 11.30am to 3pm, 6pm to 9.30pm, Closed on Sundays and Public Holidays.",
+        "Cat_E": "Food & Beverage | Restaurants"
+    },
+    {
+        "S_NAME_E": "BOTANICS CREATION HAIR STUDIO | HAIR SPA",
+        "Mall_E": "Pacific Plaza",
+        "SHOP_NO_E": "#03-11",
+        "Tel": "6235 0362",
+        "Website": "http://botanicscreation.com/",
+        "BIZ_HRS": "Mon \u2013 Fri: 11.00am - 8.00pm, Sat \u2013 Sun: 10.30am - 7.00pm, Public holidays: 10.30am - 7.00pm",
+        "Cat_E": "Hair / Beauty / Wellness"
+    },
+    {
+        "S_NAME_E": "BOTTLES & BOTTLES",
+        "Mall_E": "One Holland Village",
+        "SHOP_NO_E": "#01-52",
+        "Tel": null,
+        "Website": "https://www.bnb.com.sg/",
+        "BIZ_HRS": "Mon - Thu: 11am - 10pm, Fri - Sun & PH: 10am - 10pm",
+        "Cat_E": "Food & Beverage"
+    },
+    {
+        "S_NAME_E": "BOTTOMSLIM AND ASIAN SKIN SOLUTIONS",
+        "Mall_E": "Square 2",
+        "SHOP_NO_E": "#03-11/19",
+        "Tel": "6397 2463",
+        "Website": "http://www.bottomslim.com",
+        "BIZ_HRS": "",
+        "Cat_E": "Hair / Beauty / Wellness"
+    },
+    {
+        "S_NAME_E": "BREAD & HEARTH",
+        "Mall_E": "Katong V",
+        "SHOP_NO_E": "#02-27",
+        "Tel": "6348 8068",
+        "Website": "https://www.breadhearth.com/homepage",
+        "BIZ_HRS": "",
+        "Cat_E": "Food & Beverage | Cafes & Desserts"
+    },
+    {
+        "S_NAME_E": "BREADTALK",
+        "Mall_E": "One Holland Village",
+        "SHOP_NO_E": "#01-41",
+        "Tel": null,
+        "Website": null,
+        "BIZ_HRS": "",
+        "Cat_E": "Food & Beverage | Bakery & Confectionery"
+    },
+    {
+        "S_NAME_E": "BREAK AND BAKE",
+        "Mall_E": "Far East Square",
+        "SHOP_NO_E": "1 Amoy Street #01-01",
+        "Tel": "9299 1065",
+        "Website": "https://www.facebook.com/pg/BreakAndBake",
+        "BIZ_HRS": "",
+        "Cat_E": "Food & Beverage | Bakery & Confectionery"
+    },
+    {
+        "S_NAME_E": "BREWERKZ RESTAURANT AND MICROBREWERY",
+        "Mall_E": "Riverside Point",
+        "SHOP_NO_E": "#01-07",
+        "Tel": "6438 7438",
+        "Website": "https://brewerkz.com/",
+        "BIZ_HRS": "",
+        "Cat_E": "Food & Beverage | Restaurants"
+    },
+    {
+        "S_NAME_E": "BUBBLES GYM",
+        "Mall_E": "One Holland Village",
+        "SHOP_NO_E": "#07-01",
+        "Tel": null,
+        "Website": null,
+        "BIZ_HRS": "",
+        "Cat_E": "Education & Enrichment"
+    },
+    {
+        "S_NAME_E": "BUD COSMETICS",
+        "Mall_E": "Square 2",
+        "SHOP_NO_E": "#01-66",
+        "Tel": "6397 6013",
+        "Website": "http://www.budcosmetics.com",
+        "BIZ_HRS": "",
+        "Cat_E": "Hair / Beauty / Wellness"
+    },
+    {
+        "S_NAME_E": "BURGER KING",
+        "Mall_E": "Clarke Quay Central",
+        "SHOP_NO_E": "#01-23",
+        "Tel": "6534 8364",
+        "Website": "https://www.burgerking.com.sg/",
+        "BIZ_HRS": "",
+        "Cat_E": "Food & Beverage | Fast Food"
+    },
+    {
+        "S_NAME_E": "BURGER KING",
+        "Mall_E": "HillV2",
+        "SHOP_NO_E": "#01-06",
+        "Tel": "6250 4501",
+        "Website": "https://www.burgerking.com.sg/",
+        "BIZ_HRS": "",
+        "Cat_E": "Food & Beverage | Fast Food"
+    },
+    {
+        "S_NAME_E": "BURRATA JOY AND GUSTAVO LAPASTA",
+        "Mall_E": "Katong V",
+        "SHOP_NO_E": "#01-12",
+        "Tel": "8333 2742",
+        "Website": "http://www.gustavoburratajoy.com",
+        "BIZ_HRS": "11am - 10pm",
+        "Cat_E": "Food & Beverage | Restaurants"
+    },
+    {
+        "S_NAME_E": "BUSY BEES LEARNING CENTRE",
+        "Mall_E": "HillV2",
+        "SHOP_NO_E": "#01-15",
+        "Tel": "6877 2919",
+        "Website": "https://www.bblcchinese.com/",
+        "BIZ_HRS": "Tues: 8.30am - 5pm, Wed - Fri: 8.30am - 9.30pm, Sat: 8am - 7.30pm, Sun: 8am - 7pm",
+        "Cat_E": "Education & Enrichment"
+    },
+    {
+        "S_NAME_E": "BUZUD",
+        "Mall_E": "Square 2",
+        "SHOP_NO_E": "#03-21",
+        "Tel": "6518 9269",
+        "Website": "http://www.buzud.com",
+        "BIZ_HRS": "10am - 9pm",
+        "Cat_E": "Medical / Dental"
+    },
+    {
+        "S_NAME_E": "CAFE IGUANA",
+        "Mall_E": "Riverside Point",
+        "SHOP_NO_E": "#01-03",
+        "Tel": "9102 7320",
+        "Website": "https://cafeiguana.com/",
+        "BIZ_HRS": "Sun to Thurs & PH: 5PM to 11pm, Fri, Sat & PH eve: 12pm to 12am",
+        "Cat_E": "Food & Beverage | Restaurants"
+    },
+    {
+        "S_NAME_E": "#THEBACKYARDBAKERSHQ",
+        "Mall_E": "Far East Square",
+        "SHOP_NO_E": "21 China St #01-01",
+        "Tel": null,
+        "Website": "http://www.thebackyardbakers.com.sg",
+        "BIZ_HRS": "7:30am - 4:30pm",
+        "Cat_E": "Food & Beverage"
+    },
+    {
+        "S_NAME_E": "+SERV",
+        "Mall_E": "Orchard Central",
+        "SHOP_NO_E": "#04-08A",
+        "Tel": null,
+        "Website": null,
+        "BIZ_HRS": "",
+        "Cat_E": "Services & Others"
+    },
+    {
+        "S_NAME_E": "10 SQUARE @ ORCHARD CENTRAL",
+        "Mall_E": "Orchard Central",
+        "SHOP_NO_E": "#10-01",
+        "Tel": "6835 8170",
+        "Website": "http://www.therice.sg",
+        "BIZ_HRS": "",
+        "Cat_E": "Services & Others"
+    },
+    {
+        "S_NAME_E": "123 Z\u00d4",
+        "Mall_E": "Icon Village",
+        "SHOP_NO_E": "12 Gopeng St, #01-45, 49-51",
+        "Tel": "9669 9655",
+        "Website": "http://www.123zo-sg.com",
+        "BIZ_HRS": "Monday to Saturday: 11am - 3pm, 5pm - 11pm, Sunday: Closed",
+        "Cat_E": "Food & Beverage"
+    },
+    {
+        "S_NAME_E": "1ST EYE CARE",
+        "Mall_E": "Clarke Quay Central",
+        "SHOP_NO_E": "#02-60",
+        "Tel": "6534 0615",
+        "Website": null,
+        "BIZ_HRS": "",
+        "Cat_E": "Jewellery/Watches/Optical"
+    },
+    {
+        "S_NAME_E": "20DB DIGISOUND",
+        "Mall_E": "Square 2",
+        "SHOP_NO_E": "#03-24/25",
+        "Tel": "6397 6779",
+        "Website": "https://www.digisoundhearing.com.sg/",
+        "BIZ_HRS": "Monday to Saturday, 10am-6pm, (Closed on Sunday and Public Holidays)",
+        "Cat_E": "Medical / Dental"
+    },
+    {
+        "S_NAME_E": "3+ SALON",
+        "Mall_E": "Pacific Plaza",
+        "SHOP_NO_E": "#03-02",
+        "Tel": "8690 7533",
+        "Website": null,
+        "BIZ_HRS": "Weekdays: 11am to 8pm, Weekends: 11am to 7pm",
+        "Cat_E": "Hair / Beauty / Wellness"
+    },
+    {
+        "S_NAME_E": "3DSENSE MEDIA SCHOOL",
+        "Mall_E": "Clarke Quay Central",
+        "SHOP_NO_E": "#03-01",
+        "Tel": "6224 9455",
+        "Website": "https://3dsense.net/",
+        "BIZ_HRS": "",
+        "Cat_E": "Education & Enrichment"
+    },
+    {
+        "S_NAME_E": "7-ELEVEN",
+        "Mall_E": "Greenwich V",
+        "SHOP_NO_E": "#01-01",
+        "Tel": "6483 0058",
+        "Website": "http://www.7-eleven.com.sg/",
+        "BIZ_HRS": "",
+        "Cat_E": "Convenience Store"
+    },
+    {
+        "S_NAME_E": "7-ELEVEN",
+        "Mall_E": "HillV2",
+        "SHOP_NO_E": "#01-03",
+        "Tel": null,
+        "Website": "http://www.7-eleven.com.sg/",
+        "BIZ_HRS": "",
+        "Cat_E": "Convenience Store"
+    },
+    {
+        "S_NAME_E": "7-ELEVEN",
+        "Mall_E": "Parksuites",
+        "SHOP_NO_E": "#01-20",
+        "Tel": null,
+        "Website": "http://www.7-eleven.com.sg/",
+        "BIZ_HRS": "",
+        "Cat_E": "Convenience Store"
+    },
+    {
+        "S_NAME_E": "7-ELEVEN",
+        "Mall_E": "Icon Village",
+        "SHOP_NO_E": "#01-18",
+        "Tel": "6225 6993",
+        "Website": "http://www.7-eleven.com.sg/",
+        "BIZ_HRS": "",
+        "Cat_E": "Convenience Store"
+    },
+    {
+        "S_NAME_E": "7-ELEVEN",
+        "Mall_E": "Mess Hall at Sentosa",
+        "SHOP_NO_E": "#01-03",
+        "Tel": "6970 4330",
+        "Website": "http://www.7-eleven.com.sg/",
+        "BIZ_HRS": "",
+        "Cat_E": "Convenience Store"
+    },
+    {
+        "S_NAME_E": "7-ELEVEN",
+        "Mall_E": "Riverside Point",
+        "SHOP_NO_E": "#01-01B",
+        "Tel": "6536 9704",
+        "Website": "http://www.7-eleven.com.sg/",
+        "BIZ_HRS": "",
+        "Cat_E": "Convenience Store"
+    },
+    {
+        "S_NAME_E": "7-ELEVEN",
+        "Mall_E": "Square 2",
+        "SHOP_NO_E": "#01-03",
+        "Tel": "6397 6570",
+        "Website": "http://www.7-eleven.com.sg/",
+        "BIZ_HRS": "",
+        "Cat_E": "Convenience Store"
+    },
+    {
+        "S_NAME_E": "7-ELEVEN",
+        "Mall_E": "Woods Square",
+        "SHOP_NO_E": "#01-03",
+        "Tel": "-",
+        "Website": "http://www.7-eleven.com.sg/",
+        "BIZ_HRS": "",
+        "Cat_E": "Convenience Store"
+    },
+    {
+        "S_NAME_E": "88 HONG KONG ROAST MEAT SPECIALIST",
+        "Mall_E": "Far East Square",
+        "SHOP_NO_E": "19/20 China St #01-01",
+        "Tel": null,
+        "Website": null,
+        "BIZ_HRS": "Mon - Sat: 10am - 9pm\nSun: Closed",
+        "Cat_E": "Food & Beverage"
+    }
+]
